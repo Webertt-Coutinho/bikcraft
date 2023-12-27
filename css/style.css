@@ -5,6 +5,7 @@
 @import "./home/introducao.css";
 @import "./utilidades/componentes.css";
 @import "./utilidades/formulario.css";
+@import "./utilidades/animacao.css";
 @import "./bicicletas/bicicletas-lista.css";
 @import "./home/tecnologia.css";
 @import "./home/parceiros.css";
